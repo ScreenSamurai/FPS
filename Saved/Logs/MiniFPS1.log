@@ -2567,3 +2567,343 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.14-12.28.56:420][448]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.14-12.28.56:420][448]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.08.14-12.28.56:420][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.14-12.38.56:315][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.08.14-12.38.56:321][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2020.08.14-12.38.56:321][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SimpelAI] ([1] browsable assets)...
+[2020.08.14-12.38.56:321][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SimpelAI]
+[2020.08.14-12.38.56:347][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/SimpelAI_Auto66ADCE21B42796FFCD71D5FB74EA03DD4.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SimpelAI_Auto6.uasset'
+[2020.08.14-12.38.56:349][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.14-12.38.56:366][359]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.08.14-12.38.56:366][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.08.14-12.38.56:438][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/ThirdPersonCharacter_Auto6FA6AE43A409C65AE42BF32BE14DA1F7E.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2020.08.14-12.38.56:443][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP] ([1] browsable assets)...
+[2020.08.14-12.38.56:458][359]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP]
+[2020.08.14-12.38.56:458][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP]
+[2020.08.14-12.38.56:520][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/SWAT_AnimBP_Auto6259F133D4542EBBBD8E781B4AAFBC502.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP_Auto6.uasset'
+[2020.08.14-12.38.56:521][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD] ([1] browsable assets)...
+[2020.08.14-12.38.56:521][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD]
+[2020.08.14-12.38.56:549][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/FPSMINIHUD_Auto62AE7C75A4189E8DE8F28CE873EFFF0E3.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSMINIHUD_Auto6.uasset'
+[2020.08.14-12.38.56:550][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Objective_1] ([1] browsable assets)...
+[2020.08.14-12.38.56:550][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Objective_1]
+[2020.08.14-12.38.56:560][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Objective_1_Auto611562D3E4ABF17C9097CB58F6F74C26D.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Objective_1_Auto6.uasset'
+[2020.08.14-12.38.56:561][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Objective_2] ([1] browsable assets)...
+[2020.08.14-12.38.56:561][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Objective_2]
+[2020.08.14-12.38.56:571][359]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Objective_2_Auto610E79DEC4F2E3480A7CCCE994A8615B5.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Objective_2_Auto6.uasset'
+[2020.08.14-12.38.56:571][359]LogFileHelpers: Auto-saving content packages took 0.250
+[2020.08.14-12.41.09:106][756]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.41.09:107][756]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.43.35:773][406]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.43.35:773][406]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.43.36:990][552]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.43.36:990][552]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.43.58:641][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\AK-47 Icon.png)
+[2020.08.14-12.43.58:645][587]LogTexture: Display: Building textures: AK-47_Icon (AutoDXT, 96X36)
+[2020.08.14-12.43.58:651][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Armor_Border.png)
+[2020.08.14-12.43.58:652][587]LogTexture: Display: Building textures: Armor_Border (BGRA8, 38X12)
+[2020.08.14-12.43.58:656][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Armor_Icon.png)
+[2020.08.14-12.43.58:657][587]LogTexture: Display: Building textures: Armor_Icon (BGRA8, 20X21)
+[2020.08.14-12.43.58:661][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Bar_Fill.png)
+[2020.08.14-12.43.58:662][587]LogTexture: Display: Building textures: Bar_Fill (BGRA8, 291X6)
+[2020.08.14-12.43.58:666][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Bar_NoFill.png)
+[2020.08.14-12.43.58:667][587]LogTexture: Display: Building textures: Bar_NoFill (BGRA8, 291X6)
+[2020.08.14-12.43.58:672][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Grenade1_Icon.png)
+[2020.08.14-12.43.58:673][587]LogTexture: Display: Building textures: Grenade1_Icon (BGRA8, 24X23)
+[2020.08.14-12.43.58:677][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Grenade2_Icon.png)
+[2020.08.14-12.43.58:678][587]LogTexture: Display: Building textures: Grenade2_Icon (AutoDXT, 20X20)
+[2020.08.14-12.43.58:682][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Health_Border.png)
+[2020.08.14-12.43.58:683][587]LogTexture: Display: Building textures: Health_Border (BGRA8, 38X12)
+[2020.08.14-12.43.58:687][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Health_Icon.png)
+[2020.08.14-12.43.58:688][587]LogTexture: Display: Building textures: Health_Icon (AutoDXT, 20X20)
+[2020.08.14-12.43.58:693][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\HitMarker.png)
+[2020.08.14-12.43.58:694][587]LogTexture: Display: Building textures: HitMarker (AutoDXT, 32X32)
+[2020.08.14-12.43.58:699][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Killfeed_Back.png)
+[2020.08.14-12.43.58:700][587]LogTexture: Display: Building textures: Killfeed_Back (BGRA8, 194X28)
+[2020.08.14-12.43.58:704][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Killfeed_Border.png)
+[2020.08.14-12.43.58:705][587]LogTexture: Display: Building textures: Killfeed_Border (BGRA8, 110X33)
+[2020.08.14-12.43.58:709][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\M4AI_Icon.png)
+[2020.08.14-12.43.58:710][587]LogTexture: Display: Building textures: M4AI_Icon (BGRA8, 106X36)
+[2020.08.14-12.43.58:715][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Minimap_Arrow.png)
+[2020.08.14-12.43.58:716][587]LogTexture: Display: Building textures: Minimap_Arrow (BGRA8, 16X18)
+[2020.08.14-12.43.58:720][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Minimap_Border.png)
+[2020.08.14-12.43.58:721][587]LogTexture: Display: Building textures: Minimap_Border (BGRA8, 110X33)
+[2020.08.14-12.43.58:725][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Vadim\Desktop\FPSAssets\HUD_Export\Timer_Backing.png)
+[2020.08.14-12.43.58:726][587]LogTexture: Display: Building textures: Timer_Backing (BGRA8, 47X19)
+[2020.08.14-12.44.19:294][443]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSMINIHUD.FPSMINIHUD
+[2020.08.14-12.47.35:630][719]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.47.35:630][719]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.47.49:535][968]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.47.49:536][968]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.47.51:223][127]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.47.51:223][127]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.49.27:877][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.08.14-12.49.27:882][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2020.08.14-12.49.27:882][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD] ([1] browsable assets)...
+[2020.08.14-12.49.27:882][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD]
+[2020.08.14-12.49.27:910][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/FPSMINIHUD_Auto76A5A9A6C4A05F0CB8F7C349973BB0436.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSMINIHUD_Auto7.uasset'
+[2020.08.14-12.49.27:911][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/AK-47_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:912][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/AK-47_Icon.AK-47_Icon]
+[2020.08.14-12.49.27:912][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/AK-47_Icon]
+[2020.08.14-12.49.27:918][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/AK-47_Icon_Auto7EA4F81B044F336D1E63C52AA80893827.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/AK-47_Icon_Auto7.uasset'
+[2020.08.14-12.49.27:918][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Border] ([1] browsable assets)...
+[2020.08.14-12.49.27:919][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Border.Armor_Border]
+[2020.08.14-12.49.27:919][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Border]
+[2020.08.14-12.49.27:925][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Armor_Border_Auto7205317F849A3AB419FCB5EA4879CE268.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Border_Auto7.uasset'
+[2020.08.14-12.49.27:925][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:925][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Icon.Armor_Icon]
+[2020.08.14-12.49.27:925][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Icon]
+[2020.08.14-12.49.27:931][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Armor_Icon_Auto7679379304EBEF1235649B5A350CF506F.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Armor_Icon_Auto7.uasset'
+[2020.08.14-12.49.27:932][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_Fill] ([1] browsable assets)...
+[2020.08.14-12.49.27:932][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_Fill.Bar_Fill]
+[2020.08.14-12.49.27:932][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_Fill]
+[2020.08.14-12.49.27:938][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Bar_Fill_Auto7EA66D03747DA23F9D3732682E17E2536.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_Fill_Auto7.uasset'
+[2020.08.14-12.49.27:938][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_NoFill] ([1] browsable assets)...
+[2020.08.14-12.49.27:939][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_NoFill.Bar_NoFill]
+[2020.08.14-12.49.27:939][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_NoFill]
+[2020.08.14-12.49.27:945][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Bar_NoFill_Auto7961EBBC1440FC4A73CC69F83B33C5260.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Bar_NoFill_Auto7.uasset'
+[2020.08.14-12.49.27:945][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade1_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:946][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade1_Icon.Grenade1_Icon]
+[2020.08.14-12.49.27:946][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade1_Icon]
+[2020.08.14-12.49.27:951][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Grenade1_Icon_Auto76F3F9A5B42A76D86286509A3055ED5CE.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade1_Icon_Auto7.uasset'
+[2020.08.14-12.49.27:952][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade2_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:952][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade2_Icon.Grenade2_Icon]
+[2020.08.14-12.49.27:952][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade2_Icon]
+[2020.08.14-12.49.27:958][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Grenade2_Icon_Auto727B22BCD444D1E515C5BF38FE9AEF658.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Grenade2_Icon_Auto7.uasset'
+[2020.08.14-12.49.27:959][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Border] ([1] browsable assets)...
+[2020.08.14-12.49.27:959][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Border.Health_Border]
+[2020.08.14-12.49.27:959][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Border]
+[2020.08.14-12.49.27:965][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Health_Border_Auto7944CCB964BF5622EFB2BE496858F0F59.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Border_Auto7.uasset'
+[2020.08.14-12.49.27:965][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:966][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Icon.Health_Icon]
+[2020.08.14-12.49.27:966][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Icon]
+[2020.08.14-12.49.27:972][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Health_Icon_Auto79A661FB94E11504BF16A20A75E0190B2.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Health_Icon_Auto7.uasset'
+[2020.08.14-12.49.27:972][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/HitMarker] ([1] browsable assets)...
+[2020.08.14-12.49.27:973][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/HitMarker.HitMarker]
+[2020.08.14-12.49.27:973][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/HitMarker]
+[2020.08.14-12.49.27:979][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/HitMarker_Auto7CCBBA42B4E07783C3DA25C986ED48F66.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/HitMarker_Auto7.uasset'
+[2020.08.14-12.49.27:979][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Back] ([1] browsable assets)...
+[2020.08.14-12.49.27:980][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Back.Killfeed_Back]
+[2020.08.14-12.49.27:980][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Back]
+[2020.08.14-12.49.27:985][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Killfeed_Back_Auto7465314924370AAA3DD042391FE67DA90.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Back_Auto7.uasset'
+[2020.08.14-12.49.27:986][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Border] ([1] browsable assets)...
+[2020.08.14-12.49.27:987][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Border.Killfeed_Border]
+[2020.08.14-12.49.27:987][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Border]
+[2020.08.14-12.49.27:993][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Killfeed_Border_Auto7143BD1014991FE6313BBDAA488C73AF9.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Killfeed_Border_Auto7.uasset'
+[2020.08.14-12.49.27:993][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/M4AI_Icon] ([1] browsable assets)...
+[2020.08.14-12.49.27:994][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/M4AI_Icon.M4AI_Icon]
+[2020.08.14-12.49.27:994][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/M4AI_Icon]
+[2020.08.14-12.49.28:000][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/M4AI_Icon_Auto74AB9712740D40084C740F295AD0C4FD2.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/M4AI_Icon_Auto7.uasset'
+[2020.08.14-12.49.28:000][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Arrow] ([1] browsable assets)...
+[2020.08.14-12.49.28:001][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Arrow.Minimap_Arrow]
+[2020.08.14-12.49.28:001][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Arrow]
+[2020.08.14-12.49.28:007][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Minimap_Arrow_Auto7ABD71EF94A3BA542D54B168DDD8E8FE7.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Arrow_Auto7.uasset'
+[2020.08.14-12.49.28:007][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Border] ([1] browsable assets)...
+[2020.08.14-12.49.28:008][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Border.Minimap_Border]
+[2020.08.14-12.49.28:008][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Border]
+[2020.08.14-12.49.28:014][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Minimap_Border_Auto7885907484F1FF57CAF59F7AE4D3DE9AE.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Minimap_Border_Auto7.uasset'
+[2020.08.14-12.49.28:014][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Timer_Backing] ([1] browsable assets)...
+[2020.08.14-12.49.28:014][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUD_Export/Timer_Backing.Timer_Backing]
+[2020.08.14-12.49.28:014][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD_Export/Timer_Backing]
+[2020.08.14-12.49.28:022][110]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/Timer_Backing_Auto7E47CBBCD4CE0200C3BB6F4824347D01B.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Export/Timer_Backing_Auto7.uasset'
+[2020.08.14-12.49.28:022][110]LogFileHelpers: Auto-saving content packages took 0.140
+[2020.08.14-12.59.06:047][670]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.59.06:047][670]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.59.29:545][869]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.59.29:546][869]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.59.30:106][924]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-12.59.30:106][924]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-13.05.43:767][264]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.14-13.06.59:104][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.08.14-13.06.59:108][634]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2020.08.14-13.06.59:109][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD] ([1] browsable assets)...
+[2020.08.14-13.06.59:109][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD]
+[2020.08.14-13.06.59:141][634]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/FPSMINIHUD_Auto86F1294DD408DCC8DDA34A0A7954B64B1.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSMINIHUD_Auto8.uasset'
+[2020.08.14-13.06.59:142][634]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.08.14-13.08.30:575][874]BlueprintLog: New page: Compile FPSMINIHUD
+[2020.08.14-13.08.30:621][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.08.14-13.08.35:720][468]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.08.35:725][468]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.08.35:728][468]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.08.35:728][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.08.35:749][468]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.08.35:749][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.08.37:201][626]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.14-13.08.37:214][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.08.37:214][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.14-13.08.37:214][626]PIE: New page: PIE session: ThirdPersonExampleMap (14 авг. 2020 г., 19:08:37)
+[2020.08.14-13.08.37:215][626]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.14-13.08.37:231][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016036s)
+[2020.08.14-13.08.37:232][626]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.14-13.08.37:232][626]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2020.08.14-13.08.37:232][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017257s)
+[2020.08.14-13.08.37:263][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.14-13.08.37:264][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.14-13.08.37:264][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.14-13.08.37:265][626]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.14-13.08.37:265][626]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Is Default: Yes
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: Channel Order:
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.14-13.08.37:275][626]LogAudioMixer: Display: 1: FrontRight
+[2020.08.14-13.08.37:291][626]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.08.14-13.08.37:292][626]LogInit: FAudioDevice initialized.
+[2020.08.14-13.08.37:299][626]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.14-13.08.37:302][626]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.14-16.08.37
+[2020.08.14-13.08.37:302][626]LogWorld: Bringing up level for play took: 0.001995
+[2020.08.14-13.08.37:302][626]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.08.14-13.08.37:306][626]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,334
+[2020.08.14-13.08.37:306][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.08.42:807][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.08.42:816][283]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.14-13.08.42:836][283]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.14-13.08.42:836][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.08.42:837][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.14-13.08.42:837][283]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.14-13.08.42:837][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.08.42:838][283]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.08.42:839][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.08.42:855][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.14-13.08.42:855][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.08.42:867][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.08.42:896][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.08.42:899][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.14-13.08.42:903][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.14-13.08.42:922][284]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.08.14-13.08.45:639][579]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSMINIHUD.FPSMINIHUD
+[2020.08.14-13.09.49:854][205]BlueprintLog: New page: Compile FPSMINIHUD
+[2020.08.14-13.09.49:901][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.08.14-13.09.50:804][285]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.09.50:809][285]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.09.50:812][285]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.09.50:812][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.09.50:827][285]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.09.50:827][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.09.52:868][521]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.14-13.09.52:881][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.09.52:881][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.14-13.09.52:881][521]PIE: New page: PIE session: ThirdPersonExampleMap (14 авг. 2020 г., 19:09:52)
+[2020.08.14-13.09.52:882][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.14-13.09.52:893][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011536s)
+[2020.08.14-13.09.52:894][521]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.14-13.09.52:895][521]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2020.08.14-13.09.52:895][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013128s)
+[2020.08.14-13.09.52:926][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.14-13.09.52:926][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.14-13.09.52:926][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.14-13.09.52:927][521]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.14-13.09.52:927][521]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Is Default: Yes
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: Channel Order:
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.14-13.09.52:937][521]LogAudioMixer: Display: 1: FrontRight
+[2020.08.14-13.09.52:951][521]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.08.14-13.09.52:952][521]LogInit: FAudioDevice initialized.
+[2020.08.14-13.09.52:956][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.14-13.09.52:958][521]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.14-16.09.52
+[2020.08.14-13.09.52:959][521]LogWorld: Bringing up level for play took: 0.001863
+[2020.08.14-13.09.52:959][521]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.08.14-13.09.52:962][521]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,009
+[2020.08.14-13.09.52:962][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.10.00:008][361]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.00:090][371]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.00:198][384]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.00:216][386]LogBlueprintUserMessages: [SimpelAI_2] Cant See Player
+[2020.08.14-13.10.00:282][394]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.00:282][394]LogBlueprintUserMessages: [SimpelAI_2] Can See Player
+[2020.08.14-13.10.00:373][405]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.00:717][446]LogBlueprintUserMessages: [SimpelAI_2] Cant See Player
+[2020.08.14-13.10.01:216][506]LogBlueprintUserMessages: [SimpelAI_2] Cant See Player
+[2020.08.14-13.10.01:216][506]LogBlueprintUserMessages: [SimpelAI_2] Can See Player
+[2020.08.14-13.10.01:715][566]LogBlueprintUserMessages: [SimpelAI_2] Cant See Player
+[2020.08.14-13.10.01:715][566]LogBlueprintUserMessages: [SimpelAI_2] Can See Player
+[2020.08.14-13.10.01:840][581]LogBlueprintUserMessages: [SimpelAI_2] Can See Player
+[2020.08.14-13.10.02:007][601]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.02:098][612]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.02:191][623]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.02:290][635]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.02:390][647]LogBlueprintUserMessages: [SimpelAI_2] HIt
+[2020.08.14-13.10.09:507][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.10.09:526][501]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.14-13.10.09:546][501]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.14-13.10.09:546][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.10.09:547][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.14-13.10.09:547][501]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.14-13.10.09:547][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.10.09:548][501]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.10.09:549][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.10.09:563][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.14-13.10.09:563][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.14-13.10.09:577][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.10.09:607][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.14-13.10.09:610][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.14-13.10.09:613][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.14-13.10.09:635][502]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.08.14-13.10.11:771][726]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSMINIHUD.FPSMINIHUD
+[2020.08.14-13.10.42:901][664]BlueprintLog: New page: Compile FPSMINIHUD
+[2020.08.14-13.10.42:945][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.08.14-13.11.50:422][ 43]BlueprintLog: New page: Compile FPSMINIHUD
+[2020.08.14-13.11.50:467][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.08.14-13.11.51:477][141]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.11.51:481][141]LogSlate: Window 'FPSMINIHUD' being destroyed
+[2020.08.14-13.11.51:486][141]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.11.51:486][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.11.51:502][141]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.08.14-13.11.51:502][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.14-13.12.11:038][834]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.14-13.13.15:826][547]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/KillPopup.KillPopup
+[2020.08.14-13.15.31:643][488]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.14-13.16.23:476][567]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSMINIHUD.FPSMINIHUD
+[2020.08.14-13.17.51:704][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.08.14-13.17.51:706][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2020.08.14-13.17.51:706][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.14-13.17.51:706][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.08.14-13.17.51:773][ 75]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/ThirdPersonCharacter_Auto934A35E5D47DBB04AE494F8B17FD245FB.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset'
+[2020.08.14-13.17.51:778][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD] ([1] browsable assets)...
+[2020.08.14-13.17.51:778][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSMINIHUD]
+[2020.08.14-13.17.51:812][ 75]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/FPSMINIHUD_Auto99BA79FDA4EAB6A9388F2C29C8E402811.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSMINIHUD_Auto9.uasset'
+[2020.08.14-13.17.51:813][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KillPopup] ([1] browsable assets)...
+[2020.08.14-13.17.51:813][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KillPopup]
+[2020.08.14-13.17.51:821][ 75]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/KillPopup_Auto912B711B24059CF2B2E7CA0AAE0B5310A.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KillPopup_Auto9.uasset'
+[2020.08.14-13.17.51:822][ 75]LogFileHelpers: Auto-saving content packages took 0.116
+[2020.08.14-13.26.04:547][209]Cmd: TRANSACTION UNDO
+[2020.08.14-13.26.04:547][209]LogEditorTransaction: Undo Set Key Value
+[2020.08.14-13.27.55:275][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.14-13.27.55:276][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2020.08.14-13.27.55:277][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KillPopup] ([1] browsable assets)...
+[2020.08.14-13.27.55:277][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KillPopup]
+[2020.08.14-13.27.55:305][571]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/KillPopup_Auto0FE70429141A69AD2D925D2891DEFA944.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KillPopup_Auto0.uasset'
+[2020.08.14-13.27.55:305][571]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.08.14-13.28.18:332][640]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-13.28.18:332][640]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.14-13.30.40:834][187]BlueprintLog: New page: Compile KillPopup
+[2020.08.14-13.30.40:874][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.08.14-13.33.23:190][545]LogEditorTransaction: Undo Set Key Value
+[2020.08.14-13.35.02:198][805]BlueprintLog: New page: Compile KillPopup
+[2020.08.14-13.35.02:239][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.08.14-13.37.55:602][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.08.14-13.37.55:603][456]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.035
+[2020.08.14-13.37.55:603][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KillPopup] ([1] browsable assets)...
+[2020.08.14-13.37.55:603][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KillPopup]
+[2020.08.14-13.37.55:620][456]LogSavePackage: Moving '../../../../../MyProject/MiniFPS1/FPS/Saved/KillPopup_Auto1563B4F9F48D32DFD66FB7386545AAD33.tmp' to '../../../../../MyProject/MiniFPS1/FPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KillPopup_Auto1.uasset'
+[2020.08.14-13.37.55:620][456]LogFileHelpers: Auto-saving content packages took 0.017
